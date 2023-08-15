@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/CompArch/FPGA_Lab/Lab5and6/project_2/project_2.srcs/sources_1/new/Car_FSM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Car_FSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/CompArch/FPGA_Lab/Lab5and6/project_2/project_2.srcs/sim_1/new/Car_FSM_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Car_FSM_test

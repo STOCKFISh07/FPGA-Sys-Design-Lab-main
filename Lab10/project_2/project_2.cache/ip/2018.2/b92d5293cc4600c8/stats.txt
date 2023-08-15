@@ -1,0 +1,4 @@
+NumberHits:2
+Timestamp: Fri Oct 01 06:31:30 UTC 2021
+VLNV: xilinx.com:ip:mult_gen:12.0
+SynthRuntime: 97

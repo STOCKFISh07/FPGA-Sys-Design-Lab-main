@@ -1,0 +1,13 @@
+set_property IOSTANDARD LVCMOS33 [get_ports Clk]
+set_property PACKAGE_PIN Y9 [get_ports Clk]
+set_property PACKAGE_PIN R18 [get_ports Reset]
+set_property PACKAGE_PIN U21 [get_ports {Count[3]}]
+set_property PACKAGE_PIN U22 [get_ports {Count[2]}]
+set_property PACKAGE_PIN T21 [get_ports {Count[1]}]
+set_property PACKAGE_PIN T22 [get_ports {Count[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports Reset]
+set_property IOSTANDARD LVCMOS33 [get_ports {Count[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {Count[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {Count[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {Count[3]}]
+

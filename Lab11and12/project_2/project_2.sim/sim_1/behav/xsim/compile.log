@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/CompArch/FPGA_Lab/Lab11and12/project_2/project_2.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/CompArch/FPGA_Lab/Lab11and12/project_2/project_2.srcs/sim_1/new/test_alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_alu

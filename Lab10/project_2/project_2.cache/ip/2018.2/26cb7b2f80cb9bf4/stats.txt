@@ -1,0 +1,4 @@
+NumberHits:0
+Timestamp: Fri Oct 01 06:32:57 UTC 2021
+VLNV: xilinx.com:ip:c_addsub:12.0
+SynthRuntime: 73

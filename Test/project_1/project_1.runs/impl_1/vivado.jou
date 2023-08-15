@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Oct 13 11:19:05 2021
+# Process ID: 10104
+# Current directory: F:/CompArch/FPGA_Lab/Test/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log testfile.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source testfile.tcl -notrace
+# Log file: F:/CompArch/FPGA_Lab/Test/project_1/project_1.runs/impl_1/testfile.vdi
+# Journal file: F:/CompArch/FPGA_Lab/Test/project_1/project_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source testfile.tcl -notrace

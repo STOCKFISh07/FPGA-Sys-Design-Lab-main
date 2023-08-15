@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/CompArch/FPGA_Lab/Lab7and8/project_1/project_1.srcs/sources_1/new/Lock_FSM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Lock_FSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/CompArch/FPGA_Lab/Lab7and8/project_1/project_1.srcs/sim_1/new/lock_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lock_test

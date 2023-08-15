@@ -1,0 +1,19 @@
+{
+   ExpandedHierarchyInLayout: "",
+   guistr: "# # String gsaved with Nlview 6.8.5  2018-01-30 bk=1.4354 VDI=40 GEI=35 GUI=JA:1.6 non-TLS
+#  -string -flagsOSRD
+preplace port CLK_0 -pg 1 -lvl 1:-70 -defaultsOSRD -bot
+preplace port C_OUT_0 -pg 1 -y 20 -defaultsOSRD
+preplace portBus B_0 -pg 1 -y 30 -defaultsOSRD
+preplace portBus S_0 -pg 1 -y 40 -defaultsOSRD
+preplace portBus A_0 -pg 1 -y 10 -defaultsOSRD
+preplace inst c_addsub_0 -pg 1 -lvl 1 -y 30 -defaultsOSRD
+preplace netloc c_addsub_0_C_OUT 1 1 1 NJ
+preplace netloc B_0_1 1 0 1 NJ
+preplace netloc A_0_1 1 0 1 NJ
+preplace netloc CLK_0_1 1 0 1 0
+preplace netloc c_addsub_0_S 1 1 1 NJ
+levelinfo -pg 1 -20 100 210 -top -60 -bot 230
+",
+}
+

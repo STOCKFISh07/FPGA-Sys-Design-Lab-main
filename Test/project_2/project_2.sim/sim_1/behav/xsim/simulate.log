@@ -1,0 +1,3 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+$finish called at time : 110 ns : File "F:/CompArch/FPGA_Lab/Test/project_2/project_2.srcs/sim_1/new/testbench_countfsm.v" Line 47

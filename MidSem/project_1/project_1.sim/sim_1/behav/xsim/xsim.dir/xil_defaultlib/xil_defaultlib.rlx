@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+F:/CompArch/FPGA_Lab/MidSem/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+F:/CompArch/FPGA_Lab/MidSem/project_1/project_1.srcs/sim_1/new/fsm_test.v,1635320536,verilog,,,,fsm_test,,,,,,,,
+F:/CompArch/FPGA_Lab/MidSem/project_1/project_1.srcs/sources_1/new/Debounce.v,1635315141,verilog,,F:/CompArch/FPGA_Lab/MidSem/project_1/project_1.srcs/sources_1/new/clkDiv.v,,Debounce,,,,,,,,
+F:/CompArch/FPGA_Lab/MidSem/project_1/project_1.srcs/sources_1/new/clkDiv.v,1635317912,verilog,,F:/CompArch/FPGA_Lab/MidSem/project_1/project_1.srcs/sources_1/new/vendingMachineFSM.v,,clkDiv,,,,,,,,
+F:/CompArch/FPGA_Lab/MidSem/project_1/project_1.srcs/sources_1/new/main.v,1635319545,verilog,,F:/CompArch/FPGA_Lab/MidSem/project_1/project_1.srcs/sim_1/new/fsm_test.v,,main,,,,,,,,
+F:/CompArch/FPGA_Lab/MidSem/project_1/project_1.srcs/sources_1/new/vendingMachineFSM.v,1635318634,verilog,,F:/CompArch/FPGA_Lab/MidSem/project_1/project_1.srcs/sources_1/new/main.v,,vendingMachineFSM,,,,,,,,
